@@ -1,0 +1,24 @@
+{
+  "name": "frcshirt.trade",
+  "version": "0.0.1",
+  "description": "An Unofficial FRC Shirt Trading Website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/OpenFRC/frcshirt.trade"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "method-override": "^2.3.8",
+    "mongoose": "^4.9.5",
+    "mysql": "^2.13.0",
+    "socket.io": "^1.7.3"
+  }
+}

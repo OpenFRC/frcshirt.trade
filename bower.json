@@ -1,0 +1,24 @@
+{
+  "name": "frcshirt.trade",
+  "description": "An Unofficial FRC Shirt Trading Website",
+  "main": "server.js",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "animate.css": "^3.5.2",
+    "angular": "^1.6.4",
+    "angular-route": "^1.6.4",
+    "socket.io": "^1.7.3"
+  }
+}
